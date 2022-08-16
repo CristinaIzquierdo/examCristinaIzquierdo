@@ -1,7 +1,7 @@
-import './index.css';
-import reportWebVitals from './reportWebVitals';
-import createContainer from './di.config';
-import { runApp } from './App';
+import "./index.css";
+import reportWebVitals from "./reportWebVitals";
+import createContainer from "./di.config";
+import { runApp } from "./App";
 
 const container = createContainer();
 
